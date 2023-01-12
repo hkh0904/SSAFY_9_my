@@ -2,7 +2,7 @@
 # Edit at https://www.toptal.com/developers/gitignore?templates=python
 
 # 확장자가 txt인 파일 무시
-*. txt
+*.txt
 ### Python ###
 # Byte-compiled / optimized / DLL files
 __pycache__/
