@@ -3,6 +3,10 @@
 
 # 확장자가 txt인 파일 무시
 *.txt
+
+# secret/ 디렉토리에 있는 모든 파일 무시
+secret/
+
 ### Python ###
 # Byte-compiled / optimized / DLL files
 __pycache__/
